@@ -15,11 +15,6 @@ This repo aims to automate the task of network login for the users in Shri Mata 
 - Enter the network login credentials (**Roll No.** & **Password**).
 - That's it! Delete the `auto-login.bat` file if desired.
 
-## Usage
-
-- Plug in the ethernet cable before the system startup.
-- Start the system.
-- If the **Download** procedure is followed correctly, you'll be automatically logged in!
 
 ### Linux 
 
@@ -28,3 +23,11 @@ Under development.
 ### MacOS
 
 Under development.
+
+
+## Usage
+
+- Plug in the ethernet cable before the system startup.
+- Start the system.
+- If the **Download** procedure is followed correctly, you'll be automatically logged in!
+
