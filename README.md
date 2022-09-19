@@ -6,7 +6,7 @@ This repo aims to automate the task of network login for the users in Shri Mata 
 
 - Python version > 3.5
 
-## Usage
+## Downloading
 
 ### Windows
 
@@ -14,6 +14,12 @@ This repo aims to automate the task of network login for the users in Shri Mata 
 - Run the `auto-login.bat` file once.
 - Enter the network login credentials (**Roll No.** & **Password**).
 - That's it! Delete the `auto-login.bat` file if desired.
+
+## Usage
+
+- Plug in the ethernet cable before the system startup.
+- Start the system.
+- If the **Download** procedure is followed correctly, you'll be automatically logged in!
 
 ### Linux 
 
