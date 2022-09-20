@@ -31,3 +31,8 @@ Under development.
 - Start the system.
 - If the **Download** procedure is followed correctly, you'll be automatically logged in!
 
+## Note
+
+- If the cable is connected after the system startup, then the automation will not work.
+- If the cable is removed after the automation and is connected back again, then the automation may or may not work.
+
