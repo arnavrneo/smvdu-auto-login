@@ -1,4 +1,4 @@
-# SMVDU automated network login <br/>[![Python 3.5+](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/release/python-360/)<br/>
+# SMVDU automated internet login <br/>[![Python 3.5+](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/release/python-360/)<br/>
 
 This repo aims to automate the task of network login for the users in Shri Mata Vaishno Devi University. Instead of the user logging manually, this repo tries to login the user automatically during the system startup.
 
